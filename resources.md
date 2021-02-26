@@ -42,12 +42,15 @@ Using JARM to detect Cobal Strike Beacons
 https://github.com/salesforce/jarm
 
 1768K by Didier Stevens
+
 https://blog.didierstevens.com/2020/11/07/1768-k/
 
 Cobalt Strike Scan
+
 https://github.com/Apr4h/CobaltStrikeScan
 
 CyberChef Recipe to extract beacon
+
 https://gist.github.com/0xtornado/69d12572520122cb9bddc2d6793d97ab
 
 
