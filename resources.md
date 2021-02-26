@@ -1,7 +1,9 @@
 ### External Resources
 
 **Cobal Strike MITRE ATTA&CK Matrix**
+
 https://attack.mitre.org/software/S0154/
+
 
 **Detecting Cobalt Strike**
 
@@ -12,6 +14,7 @@ https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-inte
 https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
 
 https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/
+
 
 **Setting up Cobal Strike**
 
@@ -26,6 +29,7 @@ https://www.cobaltstrike.com/help-beacon
 https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 
 https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/
+
 
 **Tools for analysing Cobalt Strike**
 
